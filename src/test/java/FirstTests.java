@@ -21,6 +21,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 public class FirstTests {
@@ -65,7 +66,21 @@ public class FirstTests {
         assertTrue("podcast wasn't played",recordBtnClassAtrribute.contains("playing"));
     }
     @Test
-    public void secondTest(){
+    public void goToWeekAndSelectFirstBlog(){
+        WebElement weekBtn = driver.findElement(By.xpath("//a[@href='/top/week']"));
+        highlightElement(driver,weekBtn);
+        weekBtn.click();
+        String weekUrl = driver.getCurrentUrl();
+        WebDriverWait wait = new WebDriverWait(driver,10);
+        wait.until(ExpectedConditions.urlToBe("https://dev.to/top/week"));
+
+        //List<WebElement> podcasts = driver.findElements(By.tagName("h2"));
+        WebElement firstblog = driver.findElement(By.className("crayons-story__title"));
+        String firstblogtext = firstblog.getText();
+        firstblog.click();
+        String blogTitle = driver.findElement(By.cssSelector(".crayons-article__header__meta > h1:first-child")).getText();
+        assertEquals(blogTitle,firstblogtext);
+
     }
 }
 

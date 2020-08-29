@@ -38,7 +38,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="JUnit.FirstTests.firstTest">
+  <component name="RunManager" selected="JUnit.FirstTests.goToWeekAndSelectFirstBlog">
     <configuration name="FirstTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testgdy5_dodatkowa" />
       <option name="PACKAGE_NAME" value="" />
@@ -68,8 +68,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FirstTests.goToWeekAndSelectFirstBlog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testgdy5_dodatkowa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTests" />
+      <option name="METHOD_NAME" value="goToWeekAndSelectFirstBlog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTests.secondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testgdy5_dodatkowa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTests" />
+      <option name="METHOD_NAME" value="secondTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FirstTests.goToWeekAndSelectFirstBlog" />
+        <item itemvalue="JUnit.FirstTests.secondTest" />
         <item itemvalue="JUnit.FirstTests.firstTest" />
         <item itemvalue="JUnit.FirstTests" />
         <item itemvalue="JUnit.FirstTests.fistTest" />
@@ -90,22 +112,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="724" height="203" key="GridCell.Tab.0.bottom" timestamp="1598703629319">
+    <state width="724" height="203" key="GridCell.Tab.0.bottom" timestamp="1598709396976">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598703629319" />
-    <state width="724" height="203" key="GridCell.Tab.0.center" timestamp="1598703629318">
+    <state width="724" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598709396976" />
+    <state width="724" height="203" key="GridCell.Tab.0.center" timestamp="1598709396976">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598703629318" />
-    <state width="724" height="203" key="GridCell.Tab.0.left" timestamp="1598703629318">
+    <state width="724" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598709396976" />
+    <state width="724" height="203" key="GridCell.Tab.0.left" timestamp="1598709396975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598703629318" />
-    <state width="724" height="203" key="GridCell.Tab.0.right" timestamp="1598703629318">
+    <state width="724" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598709396975" />
+    <state width="724" height="203" key="GridCell.Tab.0.right" timestamp="1598709396976">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598703629318" />
+    <state width="724" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598709396976" />
     <state width="726" height="264" key="GridCell.Tab.1.bottom" timestamp="1598698708073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
