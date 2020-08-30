@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="08e9f8b2-3568-481e-8f91-545f00125bd4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FirstTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FirstTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="JUnit.FirstTests.goToWeekAndSelectFirstBlog">
+  <component name="RunManager" selected="JUnit.PageObjectTests.test">
     <configuration name="FirstTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testgdy5_dodatkowa" />
       <option name="PACKAGE_NAME" value="" />
@@ -53,16 +51,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FirstTests" />
       <option name="METHOD_NAME" value="firstTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstTests.fistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testgdy5_dodatkowa" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTests" />
-      <option name="METHOD_NAME" value="fistTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +76,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PageObjectTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testgdy5_dodatkowa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PageObjectTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PageObjectTests.test" />
         <item itemvalue="JUnit.FirstTests.goToWeekAndSelectFirstBlog" />
         <item itemvalue="JUnit.FirstTests.secondTest" />
         <item itemvalue="JUnit.FirstTests.firstTest" />
         <item itemvalue="JUnit.FirstTests" />
-        <item itemvalue="JUnit.FirstTests.fistTest" />
       </list>
     </recent_temporary>
   </component>
@@ -112,38 +110,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="724" height="203" key="GridCell.Tab.0.bottom" timestamp="1598709396976">
+    <state width="725" height="198" key="GridCell.Tab.0.bottom" timestamp="1598783829504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598709396976" />
-    <state width="724" height="203" key="GridCell.Tab.0.center" timestamp="1598709396976">
+    <state width="725" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598783829504" />
+    <state width="725" height="198" key="GridCell.Tab.0.center" timestamp="1598783829504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598709396976" />
-    <state width="724" height="203" key="GridCell.Tab.0.left" timestamp="1598709396975">
+    <state width="725" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598783829504" />
+    <state width="725" height="198" key="GridCell.Tab.0.left" timestamp="1598783829504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598709396975" />
-    <state width="724" height="203" key="GridCell.Tab.0.right" timestamp="1598709396976">
+    <state width="725" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598783829504" />
+    <state width="725" height="198" key="GridCell.Tab.0.right" timestamp="1598783829504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598709396976" />
-    <state width="726" height="264" key="GridCell.Tab.1.bottom" timestamp="1598698708073">
+    <state width="725" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598783829504" />
+    <state width="726" height="264" key="GridCell.Tab.1.bottom" timestamp="1598710420081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="264" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598698708073" />
-    <state width="726" height="264" key="GridCell.Tab.1.center" timestamp="1598698708072">
+    <state width="726" height="264" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598710420081" />
+    <state width="726" height="264" key="GridCell.Tab.1.center" timestamp="1598710420081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="264" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598698708072" />
-    <state width="726" height="264" key="GridCell.Tab.1.left" timestamp="1598698708072">
+    <state width="726" height="264" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598710420081" />
+    <state width="726" height="264" key="GridCell.Tab.1.left" timestamp="1598710420081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="264" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598698708072" />
-    <state width="726" height="264" key="GridCell.Tab.1.right" timestamp="1598698708072">
+    <state width="726" height="264" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598710420081" />
+    <state width="726" height="264" key="GridCell.Tab.1.right" timestamp="1598710420081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="264" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598698708072" />
+    <state width="726" height="264" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598710420081" />
     <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1598700102215">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -152,5 +150,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="559" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598693967645" />
+    <state x="860" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1598771069192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="860" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598771069192" />
   </component>
 </project>
